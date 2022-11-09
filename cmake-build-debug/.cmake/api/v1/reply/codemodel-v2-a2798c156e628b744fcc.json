@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "clion_project_mateo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "clion_project_mateo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clion_project_mateo-Debug-8aa7da6959fd0c994f05.json",
+					"name" : "clion_project_mateo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mateusz/Library/CloudStorage/OneDrive-Politechnika\u0141\u00f3dzka/studia/programowanie_w_C/clion_project_mateo/cmake-build-debug",
+		"source" : "/Users/mateusz/Library/CloudStorage/OneDrive-Politechnika\u0141\u00f3dzka/studia/programowanie_w_C/clion_project_mateo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

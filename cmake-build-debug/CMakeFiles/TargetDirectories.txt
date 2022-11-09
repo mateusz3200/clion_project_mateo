@@ -1,0 +1,3 @@
+/Users/mateusz/Library/CloudStorage/OneDrive-PolitechnikaŁódzka/studia/programowanie_w_C/clion_project_mateo/cmake-build-debug/CMakeFiles/clion_project_mateo.dir
+/Users/mateusz/Library/CloudStorage/OneDrive-PolitechnikaŁódzka/studia/programowanie_w_C/clion_project_mateo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mateusz/Library/CloudStorage/OneDrive-PolitechnikaŁódzka/studia/programowanie_w_C/clion_project_mateo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
